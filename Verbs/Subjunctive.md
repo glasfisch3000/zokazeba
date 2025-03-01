@@ -1,8 +1,8 @@
 # Subjunctive
 
-The subjunctive form is an optional modification of an infinite or present- or past-tense conjugated verb.
+The subjunctive form is an optional modification of an infinite or conjugated verb.
 
-It replaces the finite or infinite verb with the same form of the auxiliary verb `ami`, followed by the original verb in infinite form.
+It replaces the finite or infinite verb with the corresponding form of the auxiliary verb `ami`, followed by the original verb in infinite form.
 
 Examples:
 - infinitive: `bezhi` → `ami bezhi`
